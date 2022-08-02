@@ -1,0 +1,21 @@
+{
+    "description": "Saynora Google Search proxy page! This extension eliminates the step between clicking on a search result link and loading the requested page.",
+    "manifest_version": 2,
+    "name": "Stop Google Search proxy",
+    "version": "1.0",
+    "icons": {
+      "128": "icons/128-logo.png",
+      "64": "icons/64-logo.png",
+      "32": "icons/32-logo.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://www.google.com/search?*"],
+        "run_at": "document_end",
+        "all_frames": true,
+        "js": ["core.js"]
+      }
+    ]
+  
+  }
+  
