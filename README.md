@@ -2,7 +2,7 @@
 
 This add-on works on top of the Google search results page. The basic idea is to eliminate the "extra" hop between clicking on a Google Search result item and loading the desired page. When you are not using this extension, you will see on the monitor tab (developer tools) that Google sends you to a "google.com/url?" page and then to the website you requested.
 
-[Download the latest version here!](https://addons.mozilla.org/en-US/firefox/addon/stop-googlesearch-proxy/)
+Latest version for Firefox: https://addons.mozilla.org/en-US/firefox/addon/stop-googlesearch-proxy/
 
 ## Extension disabled behavior
 ![Google Search proxy request highlighted on Firefox monitor](screenshots/extension-disabled.png)
