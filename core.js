@@ -1,5 +1,5 @@
 document
-    .querySelectorAll('a')
+    .querySelectorAll("a")
     .forEach(element => { 
         element
             .getAttributeNames()
