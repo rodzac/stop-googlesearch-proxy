@@ -1,5 +1,5 @@
 {
-    "description": "Saynora Google Search proxy page! This extension eliminates the step between clicking on a search result link and loading the requested page.",
+    "description": "This extension eliminates the step between clicking on a Google Search result link and loading the requested page",
     "manifest_version": 2,
     "name": "Stop Google Search proxy",
     "version": "1.0",
