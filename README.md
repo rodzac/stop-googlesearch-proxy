@@ -7,7 +7,7 @@ Behind the scenes, there are two positive side effects: more privacy (avoiding a
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/stop-googlesearch-proxy/
 
-Chrome: coming soon (pending review on Chrome store)
+Chrome: https://chrome.google.com/webstore/detail/stop-google-search-proxy/hdjjpkgknpghnfoekbehekdliiljmjld
 
 ---
 
